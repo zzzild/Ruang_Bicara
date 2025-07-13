@@ -6,7 +6,7 @@ import Banner from '../components/Banner'
 import Step from '../components/Step'
 import Faq from '../components/Faq'
 import Info from '../components/info'
-import Type from '../components/type'
+import Type from '../components/Type'
 
 const Home = () => {
   return (
