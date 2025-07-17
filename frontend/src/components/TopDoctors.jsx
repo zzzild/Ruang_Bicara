@@ -36,10 +36,10 @@ const TopDoctors = () => {
                 navigate(`/appointment/${item.psikologId}`);
                 scrollTo(0, 0);
               }}
-              className="shadow-xl rounded-tr-xl rounded-bl-xl overflow-hidden cursor-pointer hover:-translate-y-2 transition-all duration-500 will-change-transform"
+              className="shadow-xl rounded-tr-xl rounded-bl-xl overflow-hidden cursor-pointer hover:-translate-y-2 transition-all duration-500 will-change-transform flex flex-col h-[360px]"
             >
               <img
-                className="bg-blue-100 w-full object-cover"
+                className="bg-blue-100 w-full h-[230px] object-cover"
                 src={item.image}
                 alt={item.name}
               />

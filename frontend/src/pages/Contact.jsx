@@ -15,9 +15,6 @@ const Contact = () => {
           <p className='font-semibold text-lg text-gray-600'>Hubungi Kami</p>
           <p className='text-gray-500'>Jl. Melati No. 213, <br /> Kebayoran Baru, Jakarta Selatan 12130, Indonesia</p>
           <p className='text-gray-500'>Tel: 083299424522<br /> Email: RuangBicara@gmail.com</p>
-          <p className='font-semibold text-lg text-gray-600'>Karir Di Ruang Bicara</p>
-          <p className='text-gray-500'>Pelajari lebih lanjut tentang tim kami dan peluang karier.</p>
-          <button className='border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500'>Lihat Lowongan</button>
         </div>
       </div>
     </div>
